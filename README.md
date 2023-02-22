@@ -30,3 +30,7 @@
 - [统计自然语言处理](https://github.com/deconx/CS-Notes/tree/master/NLP-with-Statistical-Methods)
 - [Stranford-CS224N: Natural Language Processing with Deep Learning](https://github.com/deconx/CS-Notes/tree/master/NLP-with-Deep-Learning)
 
+## 其他
+
+在线浏览笔记应用使用的是开源项目 [OrangeX4/GitNotes](https://github.com/OrangeX4/GitNotes)，感谢其作者
+
