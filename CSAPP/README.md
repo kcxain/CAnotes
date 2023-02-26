@@ -1,7 +1,6 @@
 ## 目录
 
-- [前言](/CSAPP/前言)
-- [GDB常用命令](/CSAPP/GDB常用命令)
+- [GDB常用命令](/CSAPP/gdb常用命令)
 - [Lab1: Data Lab](/CSAPP/Lab01-Data_Lab)
 - [Lab2: Bomb Lab](/CSAPP/Lab02-Bomb_Lab)
 - [Lab3: Attack Lab](/CSAPP/Lab03-Attack_Lab)
