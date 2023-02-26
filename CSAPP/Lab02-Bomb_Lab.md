@@ -1,4 +1,4 @@
-> GDB的全称是：GNU symbolic debugger。在做实验之前，了解常见的GDB命令是必不可少的。常见GDB命令可以访问：https://deconx.top/2022/02/22/gdb/
+> GDB的全称是：GNU symbolic debugger。在做实验之前，了解常见的GDB命令是必不可少的。常见GDB命令请参见第一篇文章
 
 # 实验概览
 
