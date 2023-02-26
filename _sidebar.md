@@ -1,4 +1,4 @@
-* [介绍](/)
+* [关于CAnotes](/)
 
 * [CSAPP](/CSAPP/)
   * [GDB常用命令](/CSAPP/GDB常用命令)

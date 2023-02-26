@@ -8,5 +8,5 @@
 - 细致全面，深入浅出
 
 [GitHub](https://github.com/kcxain/CAnotes)
-[My site](https://cxke.top/)
+[My site](https://kcxain.github.io/)
 [Get Started](/README.md)
