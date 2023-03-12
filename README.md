@@ -6,8 +6,9 @@
 <br>
 
 <div align="center">
-    <img src="./_media/favicon.png" width="200px">
+    <img src="./_media/favicon.png" width="300px">
 </div>
+
 
 CAnotes 的意思是 Notes in CS/AI，本项目涵盖计算机科学与人工智能领域各个方向的笔记，内容大多来自国内外名校课程及计算机领域经典书籍，如 CMU-15213，MIT-6.S081，《计算机网络：自顶向下方法》，《深入理解计算机系统》 等。
 
