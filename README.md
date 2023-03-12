@@ -5,9 +5,12 @@
 </div>
 <br>
 
+<br>
+
 <div align="center">
-    <img src="./_media/favicon.png" width="300px">
+    <img src="./_media/favicon.png" width="350px">
 </div>
+
 <br>
 
 CAnotes 的意思是 Notes in CS/AI，本项目涵盖计算机科学与人工智能领域各个方向的笔记，内容大多来自国内外名校课程及计算机领域经典书籍，如 CMU-15213，MIT-6.S081，《计算机网络：自顶向下方法》，《深入理解计算机系统》 等。
@@ -16,24 +19,23 @@ CAnotes 的意思是 Notes in CS/AI，本项目涵盖计算机科学与人工智
 
 ## 大纲
 
-- **系统**
-    - [深入理解计算机系统（CSAPP）](/CSAPP/)
-    - [MIT-6.S081: Operating System Engineering](/Operating-System/MIT-6.S081/)
-    - [哈工大李治军操作系统课程](/Operating-System/HIT-OSLab/)
-- **计算机网络**
-    - [计算机网络：自顶向下方法](/Computer-Network/A-Top-Down-Approach/)
-    - [Stanford-CS144: Introduction to Computer Networking](/Computer-Network/Stanford-CS144/)
-- **软件构造**
-    - [MIT-6.031: Software Construction](/Software-Construction/)
-- **机器学习系统**
-    - [CMU-10714: Deep Learning Systems](/Deep-Learning-Systems/)
-- **自然语言处理**
-    - [统计自然语言处理](/NLP-with-Statistical-Methods/)
-    - [Stranford-CS224N: Natural Language Processing with Deep Learning](/NLP-with-Deep-Learning/)
+- 😀**系统**
+  - [深入理解计算机系统（CSAPP）](/CSAPP/)
+  - [MIT-6.S081: Operating System Engineering](/Operating-System/MIT-6.S081/)
+  - [Linux0.11源码学习](/Operating-System/HIT-OSLab/)
+  - [实现深度学习框架](/Deep-Learning-Systems/)
+- 😋**计算机网络**
+  - [计算机网络：自顶向下方法](/Computer-Network/A-Top-Down-Approach/)
+  - [实现TCP协议](/Computer-Network/Stanford-CS144/)
+- 🥰**后端开发**
+  - [MIT-6.031: Software Construction](/Software-Construction/)
+- 🤗**自然语言处理**
+  - [统计自然语言处理](/NLP-with-Statistical-Methods/)
+  - [Stranford-CS224N: Natural Language Processing with Deep Learning](/NLP-with-Deep-Learning/)
 
 ## 关于作者
 
-你好！我是 Kcxain😎，目前是一名大三本科生，就读于哈尔滨工业大学计算学部。欢迎查看我的[个人网站](https://kcxain.github.io)了解更多信息。同时，本项目的所有笔记同步发布在知乎上，欢迎你关注我的[知乎](https://www.zhihu.com/people/deconx)，并与我交流！
+你好！我是 Kcxain，目前是一名大三本科生，就读于哈尔滨工业大学计算学部。欢迎查看我的[个人网站](https://kcxain.github.io)了解更多信息。同时，本项目的所有笔记同步发布在知乎上，欢迎你关注我的[知乎](https://www.zhihu.com/people/deconx)，并与我交流！
 
 ## License
 
